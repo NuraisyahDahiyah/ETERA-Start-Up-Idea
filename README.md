@@ -6,18 +6,15 @@ The Entrepreneurship Accelerator Project (EAP) is a final year capstone module i
 ETÉRA is an innovative smart jewelry startup that bridges physical accessories with personal digital experiences by integrating passive Near Field Communication (NFC) technology into customizable bracelets and charms. The core product value proposition centers on transforming traditional, static jewelry into dynamic, memory-storing keepsakes that allow users to access encrypted media albums with a simple smartphone tap. 
 
 <p align="center">
-<img width="870" height="486" alt="image" src="https://github.com/user-attachments/assets/8d94eab3-7df5-4530-9bf8-735305cd1b66" />
-</p>
-
-<p align="center">
-<img width="870" height="474" alt="image" src="https://github.com/user-attachments/assets/89db7887-6cd9-4da4-8d9b-6a813bc582bd" />
+<img width="420" height="290" alt="image" src="https://github.com/user-attachments/assets/8d94eab3-7df5-4530-9bf8-735305cd1b66" />
+<img width="420" height="290" alt="image" src="https://github.com/user-attachments/assets/89db7887-6cd9-4da4-8d9b-6a813bc582bd" />
 </p>
 
 The visual prototype showcase figures above features a 316L stainless steel modular bracelet paired with laser-etched NFC charm attachments designed for daily wear. Complementing the hardware is the ETÉRA companion mobile application, which houses the custom UI for scanning triggers, managing private memory pockets, and curating living digital timelines. Key technical features include battery-free passive NFC scanning, dual iOS and Android compatibility, secure cloud storage, and a specialized backend pre-upload service for seamless gifting which can be experienced through the QR code in the figures below. 
 
 <p align="center">
-<img width="450" height="290" alt="image" src="https://github.com/user-attachments/assets/27569bdc-6c21-40ff-8993-1f33e2b1ad25" />
-<img width="450" height="290" alt="image" src="https://github.com/user-attachments/assets/684d3e86-4e61-4a36-aee6-81120412ab0d" />
+<img width="420" height="290" alt="image" src="https://github.com/user-attachments/assets/27569bdc-6c21-40ff-8993-1f33e2b1ad25" />
+<img width="420" height="290" alt="image" src="https://github.com/user-attachments/assets/684d3e86-4e61-4a36-aee6-81120412ab0d" />
 </p>
 
 ## Design Thinking Process 
