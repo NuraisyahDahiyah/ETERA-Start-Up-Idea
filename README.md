@@ -1,4 +1,4 @@
-# NFC-Embedded Jewelry Start Up Idea
+# NFC-Embedded Jewelry / Smart Jewelry Start Up Idea
 The Entrepreneurship Accelerator Project (EAP) is a final year capstone module in the Taylor’s University Business degree program, allowing students to synthesize and apply their academic knowledge to a real-world venture. Students collaborate across disciplines to develop an innovative startup idea, build a viable business model, and pitch to academics, peers, and industry investors.
 
 # ETÉRA
