@@ -65,7 +65,12 @@ In-house assembly operations involve technical chip flashing, physical casing en
 ETÉRA demonstrates strong unit economics and sustainable long-term profitability for the ETÉRA product line. Direct cost of goods sold (COGS) for the RM149 Starter Kit is calculated at approximately RM35, yielding a robust gross margin of 76.5%. Initial capital structure combines equity funding from founders, university grant support, and small business financing to cover early inventory, chip procurement, and app development. Three-year financial projections indicate steady revenue growth with breakeven achieved within year one upon reaching the required annual volume of unit sales.
 
 ## Technology Stack and Implementation
-The core architecture of ETÉRA integrates micro NFC hardware embedded beneath custom ferrite shielding to enable reliable high-frequency (13.56 MHz) data transmission through metal casings. The mobile ecosystem relies on a cross-platform app framework communicating with secure cloud databases for media retrieval and user profile management. Media routing uses encrypted deep-linking protocols, directing the smartphone browser or app natively to the authenticated digital memory space upon chip detection
+
+<p align="center">
+<img width="520" height="330" alt="image" src="https://github.com/user-attachments/assets/d9f3732b-62bb-46e6-9ba1-fe4ffffe71bc" />
+</p>
+
+The core architecture of ETÉRA integrates micro NFC hardware embedded beneath custom ferrite shielding to enable reliable high-frequency (13.56 MHz) data transmission through metal casing as shown in the figure above. The mobile ecosystem relies on a cross-platform app framework communicating with secure cloud databases for media retrieval and user profile management. Media routing uses encrypted deep-linking protocols, directing the smartphone browser or app natively to the authenticated digital memory space upon chip detection
 
 ## Acknowledgments
 To the best team ever, thank you Jolyn, Shen Yen, Ling Hui and Yi Mun for embarking on this seven-month journey with me to bring ETÉRA from a simple startup idea to a fully refined business plan and working prototype. Your unwavering commitment, complementary skill sets, and willingness to show up ready to drive discussions and improve our work made all the difference. Thank you for stepping in to keep the momentum going whenever things got overwhelming, and for trusting me to lead as we navigated every technical challenge, material redesign, and late-night deadline together.
